@@ -22,9 +22,9 @@ As with any node project, run "npm i" to pick up any node dependencies.
 The project can be launched as either a customer or as a site manager. 
 1. bamazonCustomer
 This will present the user with a table of available items.
-![Image of table](https://github.com/wesleykruger/liri-node-app/blob/master/assets/screenshots/movie.PNG)
+![Image of customer table](https://github.com/wesleykruger/bamazon-warehouse-database-manager/blob/master/images/customerTable.png)
 They will then be prompted to enter an item ID, and then select how many of that item they would like to purchase.
-![Image of movie-this](https://github.com/wesleykruger/liri-node-app/blob/master/assets/screenshots/movie.PNG)
+![Image of post-buy](https://github.com/wesleykruger/bamazon-warehouse-database-manager/blob/master/images/customerBuy.png)
 If they choose to continue shopping, the cycle will repeat. If they choose that they no longer wish to shop,
 they will be "logged out" and the database connection will be terminated.
 2. bamazonManager
