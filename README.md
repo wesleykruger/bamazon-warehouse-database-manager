@@ -1,1 +1,0 @@
-# bamazon-warehouse-database-manager
