@@ -142,7 +142,7 @@ function addToInventory() {
                 newStockChoices.newItemType,
                 newStockChoices.newItemCategory,
                 newStockChoices.newItemPrice,
-                newStockChoices.newItemPrice
+                newStockChoices.newItemQuantity
               ],
               function(err, res) {
                 if (err) throw err;
