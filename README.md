@@ -21,7 +21,7 @@ As with any node project, run "npm i" to pick up any node dependencies.
 ## Running the project
 The project can be launched as either a customer or as a site manager. 
 
-1. bamazonCustomer
+### 1. bamazonCustomer
 
 This will present the user with a table of available items.
 
@@ -34,7 +34,7 @@ They will then be prompted to enter an item ID, and then select how many of that
 If they choose to continue shopping, the cycle will repeat. If they choose that they no longer wish to shop,
 they will be "logged out" and the database connection will be terminated.
 
-2. bamazonManager
+### 2. bamazonManager
 
 This will allow users to view all inventory, view items with low inventory, or add/adjust stock.
 
@@ -63,7 +63,7 @@ that value in the database.
 
 ![Image of update](https://github.com/wesleykruger/bamazon-warehouse-database-manager/blob/master/images/managerItemUpdate.png)
 
-![Image of post-update](hhttps://github.com/wesleykruger/bamazon-warehouse-database-manager/blob/master/images/managerItemPostUpdate.png)
+![Image of post-update](https://github.com/wesleykruger/bamazon-warehouse-database-manager/blob/master/images/managerItemPostUpdate.png)
 
 
 ### Project made using:
