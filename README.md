@@ -5,11 +5,6 @@ widgets, and tracks all changes in a mySQL database.
 ## Getting Started
 You will need a few prerequisites for this to run on your machine. You will need Node.js installed and a running mySQL database. 
 Your database will need to be named "bamazon" and it will need to have a table called tblProducts. This table will need the following columns:
-*intID
-*strProduct
-*strDepartment
-*curPrice
-*intQuantity
 
    * [intID]
 
